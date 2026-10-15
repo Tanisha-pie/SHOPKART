@@ -1,0 +1,11 @@
+{
+  "name": "shopkart-mern",
+  "version": "1.0.0",
+  "description": "ShopKart MERN Full Stack Application",
+  "scripts": {
+    "start": "npm start --prefix backend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "seed": "npm run seed --prefix backend"
+  }
+}
